@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Lowellowuor
-- 👀 I’m interested in I'm passionate about software development with a focus on:
+- 👋 Hi, I’m Lowellowuor
+- 👀  I'm passionate about software development with a focus on:
 
 Python for backend logic and automation
 
