@@ -37,7 +37,7 @@ I’m on a mission to build software that changes lives — from automating comp
 Tech is my paintbrush. The future is my canvas.
 
 📬 Let’s Connect
-🔗 GitHub: github.com/yourusername
+🔗 GitHub: https://github.com/Lowellowuor
 
 💼 LinkedIn: linkedin.com/in/yourusername
 
