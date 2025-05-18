@@ -39,7 +39,10 @@ Tech is my paintbrush. The future is my canvas.
 📬 Let’s Connect
 🔗 GitHub: https://github.com/Lowellowuor
 
-💼 LinkedIn: www.linkedin.com/in/lowell-owuor-517a8b33b
+💼 LinkedIn: www.linkedin.com/in/lowell-owuor-517a8b33b  
+Email: owuorlowell0@gmail.com
+
+
 
 
 
