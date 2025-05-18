@@ -1,21 +1,50 @@
-- 👋 Hi, I’m Lowellowuor
-- 👀  I'm passionate about software development with a focus on:
+👋 Hi there, I'm owuor lowell.
+🚀 A passionate Full-Stack Developer and AI Enthusiast crafting elegant web experiences, intelligent systems, and scalable software solutions.
 
-Python for backend logic and automation
+💡 About Me
+I specialize in building powerful, modern web applications using:
 
-MySQL for database design and management
+🌐 Frontend: HTML5, CSS3, JavaScript (ES6+)
 
-HTML, CSS, and JavaScript for crafting responsive and interactive web interfaces
+🧠 Backend & Scripting: Python
 
-Mobile development for building user-friendly apps on the go
-- 🌱 I’m currently learning Information and Communication Technology.
-- 💞️ I’m looking to collaborate on Projects involving Python, web development (HTML, CSS, JavaScript), mobile app development,
--  or anything that uses MySQL for backend/database work.
-- I'm open to learning and contributing to real-world projects that help me grow as a developer.
-- 📫 How to reach me Phone:+254113661960
--                    Email:owuorlowell0@gmail.com
-- 😄 Pronouns:He.
-- ⚡ Fun fact:My love life is like my Python loops: sometimes infinite, often breaking.
+🗄️ Database: SQL (MySQL, PostgreSQL, SQLite)
+
+🧰 Tools & Frameworks: Git, REST APIs, CodeIgniter, Flask
+
+I’m currently diving deep into:
+
+🤖 Artificial Intelligence & Machine Learning
+
+🏗️ Software Engineering Principles – Clean Architecture, Agile Development, CI/CD
+
+My goal is to bridge the gap between intelligent automation and human-centered design – building systems that don't just work, but think and elevate.
+
+🔧 Projects
+Some of the projects I’ve worked on:
+
+💼 Job Search Platform – A full-stack web application for job seekers and employers using HTML, CSS, JS, CodeIgniter, SQL
+
+🛒 E-Commerce UI – A responsive, dark/light-mode front-end using vanilla JavaScript and modern UX practices
+
+🤖 AI Chatbot Prototype – Built with Python, NLP, and Flask integration
+
+📊 Data Dashboard – Interactive dashboard with Python, SQL, and data visualization tools
+
+📈 Vision
+I’m on a mission to build software that changes lives — from automating complex workflows to making smart decisions in real time.
+
+Tech is my paintbrush. The future is my canvas.
+
+📬 Let’s Connect
+🔗 GitHub: github.com/yourusername
+
+💼 LinkedIn: linkedin.com/in/yourusername
+
+
+
+💬 “I don’t just write code — I design intelligent, scalable, human-first solutions that are built to last.”
+
 
 😂😂
 
