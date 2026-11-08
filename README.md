@@ -1,10 +1,15 @@
-<h1 align="center">Lowell Owuor</h1>
-<p align="center"><b>Software Engineer · Applied AI & Machine Learning · Data Systems</b></p>
-<p align="center"><i>I build intelligent systems that turn messy data and complex workflows into decisions people can trust.</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7C7B,100:1B2A4A&height=200&section=header&text=Lowell%20Owuor&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Applied%20AI%20%26%20Machine%20Learning%20%C2%B7%20Data%20Systems&descSize=16&descAlignY=60" width="100%" alt="Lowell Owuor header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E7C7B&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+that+scale;Turning+messy+data+into+trusted+decisions;Applied+AI+%7C+NLP+%7C+MLOps;Clean+Architecture+%C2%B7+CI%2FCD+%C2%B7+Human-first+design" alt="Animated tagline" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/lowellowuor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:owuorlowell0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Lowellowuor&style=for-the-badge&color=0E7C7B&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/Lowellowuor?style=for-the-badge&color=0E7C7B&labelColor=1B2A4A" />
 </p>
 
@@ -54,8 +59,6 @@ I work at the intersection of **software engineering, data systems, and applied 
 **Approach:** A responsive, accessible interface in vanilla JavaScript with light/dark theming and no framework overhead.
 **Stack:** `HTML` · `CSS` · `JavaScript`
 
-<!-- Tip: add one measurable result per project (latency, users, accuracy, time saved). -->
-
 ---
 
 ## Technical Stack
@@ -80,11 +83,23 @@ I work at the intersection of **software engineering, data systems, and applied 
 
 ---
 
-## GitHub Analytics
+## Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lowellowuor/Lowellowuor/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lowellowuor/Lowellowuor/output/github-snake.svg" />
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Lowellowuor/Lowellowuor/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lowellowuor&show_icons=true&theme=default&hide_border=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lowellowuor&layout=compact&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Lowellowuor&hide_border=true" width="70%" alt="GitHub streak stats" />
 </p>
 
 ---
@@ -94,3 +109,7 @@ I work at the intersection of **software engineering, data systems, and applied 
 I'm interested in engineering roles, research collaborations, and building products where AI meets real-world impact.
 
 **[LinkedIn](https://linkedin.com/in/lowellowuor)** · **[GitHub](https://github.com/Lowellowuor)** · **[owuorlowell0@gmail.com](mailto:owuorlowell0@gmail.com)**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,100:0E7C7B&height=120&section=footer" width="100%" alt="Footer wave" />
+</p>
